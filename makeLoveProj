@@ -1,0 +1,4 @@
+#!/bin/bash
+zip -9 -q -r STFitter.love .
+echo "Making .love complete!"
+exit 0

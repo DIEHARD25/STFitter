@@ -56,5 +56,5 @@ end
 -- redesign main menu buttons (make them slide!) - done!
 -- making screenshots - done!
 -- save-load system - almost done!
--- double-click fitting
+-- double-click fitting - in progress
 

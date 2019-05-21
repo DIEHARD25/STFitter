@@ -12,7 +12,8 @@ logo = love.graphics.newImage('res/starfall_1680x1050.png')
 tmpShipGrid = require ('data.testShipTable')
 tmpShipData = require ('data.testShipData')
 
--- very-very usefull!
+-- very-very usefull! 
+-- initial commit 2
 shipIconsEclipse = {}
 for key, value in pairs(tmpShipData.eclipse) do
 	shipIconsEclipse[value.name] = love.graphics.newImage(value.icon)

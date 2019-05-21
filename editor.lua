@@ -21,6 +21,7 @@ editor = {}
 function editor:init()
 ---
 --- data section
+--- initial commit 3
 beamsLogo = love.graphics.newImage('res/ui_icons/beams_pic.png')
 cannonsLogo = love.graphics.newImage('res/ui_icons/cannons_pic.png')
 missilesLogo = love.graphics.newImage('res/ui_icons/missiles_pic.png')

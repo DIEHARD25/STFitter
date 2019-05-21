@@ -58,3 +58,6 @@ end
 -- save-load system - almost done!
 -- double-click fitting - in progress
 
+-- first commit to dev-branch
+-- second commit - still nothing serious
+-- so, for now we want to make a pull-request to master branch

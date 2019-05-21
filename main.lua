@@ -60,3 +60,4 @@ end
 
 -- first commit to dev-branch
 -- second commit - still nothing serious
+-- so, for now we want to make a pull-request to master branch

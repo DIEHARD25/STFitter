@@ -43,3 +43,4 @@ end
 
 -- new feature branch
 -- this another one commit
+-- and another one - will be reverted
